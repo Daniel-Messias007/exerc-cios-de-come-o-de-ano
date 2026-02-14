@@ -1,0 +1,14 @@
+D:\2 ano\DS\10-02\exer 7\exer 7\bin\Debug\net8.0\exer 7.exe
+D:\2 ano\DS\10-02\exer 7\exer 7\bin\Debug\net8.0\exer 7.deps.json
+D:\2 ano\DS\10-02\exer 7\exer 7\bin\Debug\net8.0\exer 7.runtimeconfig.json
+D:\2 ano\DS\10-02\exer 7\exer 7\bin\Debug\net8.0\exer 7.dll
+D:\2 ano\DS\10-02\exer 7\exer 7\bin\Debug\net8.0\exer 7.pdb
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.AssemblyInfoInputs.cache
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.AssemblyInfo.cs
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.csproj.CoreCompileInputs.cache
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.dll
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\refint\exer 7.dll
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.pdb
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\exer 7.genruntimeconfig.cache
+D:\2 ano\DS\10-02\exer 7\exer 7\obj\Debug\net8.0\ref\exer 7.dll
