@@ -1,0 +1,14 @@
+D:\2 ano\DS\10-02\exer 5\exer 5\bin\Debug\net8.0\exer 5.exe
+D:\2 ano\DS\10-02\exer 5\exer 5\bin\Debug\net8.0\exer 5.deps.json
+D:\2 ano\DS\10-02\exer 5\exer 5\bin\Debug\net8.0\exer 5.runtimeconfig.json
+D:\2 ano\DS\10-02\exer 5\exer 5\bin\Debug\net8.0\exer 5.dll
+D:\2 ano\DS\10-02\exer 5\exer 5\bin\Debug\net8.0\exer 5.pdb
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.AssemblyInfoInputs.cache
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.AssemblyInfo.cs
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.csproj.CoreCompileInputs.cache
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.dll
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\refint\exer 5.dll
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.pdb
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\exer 5.genruntimeconfig.cache
+D:\2 ano\DS\10-02\exer 5\exer 5\obj\Debug\net8.0\ref\exer 5.dll
