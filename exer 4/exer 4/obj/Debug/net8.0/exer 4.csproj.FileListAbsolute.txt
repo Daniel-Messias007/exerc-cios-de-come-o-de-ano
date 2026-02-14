@@ -1,0 +1,14 @@
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\bin\Debug\net8.0\exer 4.exe
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\bin\Debug\net8.0\exer 4.deps.json
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\bin\Debug\net8.0\exer 4.runtimeconfig.json
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\bin\Debug\net8.0\exer 4.dll
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\bin\Debug\net8.0\exer 4.pdb
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.AssemblyInfoInputs.cache
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.AssemblyInfo.cs
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.csproj.CoreCompileInputs.cache
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.dll
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\refint\exer 4.dll
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.pdb
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\exer 4.genruntimeconfig.cache
+D:\2 ano\DS\10-02\exer 4\exer 4\exer 4\obj\Debug\net8.0\ref\exer 4.dll
